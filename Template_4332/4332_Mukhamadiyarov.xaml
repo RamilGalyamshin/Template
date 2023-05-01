@@ -1,0 +1,12 @@
+﻿<Window x:Class="Template_4332._4332_Mukhamadiyarov"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Template_4332"
+        mc:Ignorable="d"
+        Title="_4332_Mukhamadiyarov" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Center" TextWrapping="Wrap" Text="Мухамадияров Денис, 18 лет" FontSize="24" VerticalAlignment="Center" Width="340" Height="78"/>
+    </Grid>
+</Window>

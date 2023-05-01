@@ -30,9 +30,20 @@ namespace Template_4332
             elina.Show();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Spiridonov_4332_Click(object sender, RoutedEventArgs e)
         {
+             
+        }
 
+        private void Galyamshin_4332_Click(object sender, RoutedEventArgs e) 
+        {
+            _4332_Galyamshin ramil = new _4332_Galyamshin();
+            ramil.Show();
+        }
+        private void Mukhamadiyarov_4332_Click(Object sender, RoutedEventArgs e)
+        {
+            _4332_Mukhamadiyarov denies = new _4332_Mukhamadiyarov();
+            denies.Show();
         }
     }
 }

@@ -56,7 +56,15 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="4332_Galyamshin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="4332_Khamitova.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="4332_Mukhamadiyarov.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -68,8 +76,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Compile Include="4332_Galyamshin.xaml.cs">
+      <DependentUpon>4332_Galyamshin.xaml</DependentUpon>
+    </Compile>
     <Compile Include="4332_Khamitova.xaml.cs">
       <DependentUpon>4332_Khamitova.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4332_Mukhamadiyarov.xaml.cs">
+      <DependentUpon>4332_Mukhamadiyarov.xaml</DependentUpon>
     </Compile>
     <Compile Include="4332_Spiridonov.xaml.cs">
       <DependentUpon>4332_Spiridonov.xaml</DependentUpon>
