@@ -24,16 +24,7 @@ namespace Template_4332
         {
             InitializeComponent();
         }
-        private void Khamitova_4332_Click(object sender, RoutedEventArgs e)
-        {
-            _4332_Khamitova elina= new _4332_Khamitova();
-            elina.Show();
-        }
-
-        private void Spiridonov_4332_Click(object sender, RoutedEventArgs e)
-        {
-             
-        }
+        
 
         private void Galyamshin_4332_Click(object sender, RoutedEventArgs e) 
         {
