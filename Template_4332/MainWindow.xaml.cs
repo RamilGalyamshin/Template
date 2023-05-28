@@ -30,6 +30,8 @@ namespace Template_4332
         {
             _4332_Galyamshin ramil = new _4332_Galyamshin();
             ramil.Show();
+            Pokaz pokaz = new Pokaz();
+            pokaz.Show();
         }
         private void Mukhamadiyarov_4332_Click(Object sender, RoutedEventArgs e)
         {

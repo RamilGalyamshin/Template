@@ -21,5 +21,6 @@
         <Button Content="Импорт данных" FontSize="32" FontWeight="Bold" Background="DeepSkyBlue" HorizontalAlignment="Left" Margin="10,335,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.953,0.79" Height="70" Width="274" Cursor="Arrow" FontFamily="Sitka Heading" Click="Button_Click"/>
         <Button Content="Экспорт данных в Word" FontSize="32" FontWeight="Bold" Background="DeepSkyBlue" HorizontalAlignment="Left" Margin="425,260,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.953,0.79" Height="70" Width="365" Cursor="Arrow" FontFamily="Sitka Heading" Click="Button_Click_3"/>
         <Button Content="Импорт JSON данных" FontSize="32" FontWeight="Bold" Background="DeepSkyBlue" HorizontalAlignment="Left" Margin="10,260,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.953,0.79" Height="70" Width="335" Cursor="Arrow" FontFamily="Sitka Heading" Click="Button_Click_2"/>
+        <Button Content="Перейти на показ" FontSize="32" FontWeight="Bold" Background="DeepSkyBlue" HorizontalAlignment="Left" Margin="237,147,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.953,0.79" Height="70" Width="274" Cursor="Arrow" FontFamily="Sitka Heading" Click="Button_Click3"/>
     </Grid>
 </Window>
